@@ -52,8 +52,6 @@ Security
 Insights
 Settings
 
-<model-viewer bounds="tight" enable-pan src="Mammon.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="1.33" camera-orbit="-43.25deg 84.6deg auto" camera-target="-0.03m 0.94m 1.5e-8m" exposure="1.33" environment-image="aircraft_workshop_01_1k.hdr" shadow-softness="0.69">
-
           
 © 2022 GitHub, Inc.
 Footer navigation
